@@ -1,0 +1,6 @@
+{
+  "name": "PDFBRO",
+  "description": "Mobile-First PDF Creation Platform with rich custom layouts, typography, page numbering, margins, and optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
